@@ -29,5 +29,6 @@ public static void main(String str[])
 >>>>>>> dcc7c39 (signing off)
 
 	this is git hub editor.....
+	pull me in to local repository
 }
 }
