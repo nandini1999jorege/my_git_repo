@@ -18,6 +18,10 @@ public static void main(String str[])
   System.out.println("Division is :" +c);
   c=b%a;
   System.out.println("Reminder is :" +c);
+<<<<<<< HEAD
 >>>>>>> 3616351 (reminder is updated)
+=======
+  program ends.
+>>>>>>> cd445c4 (end)
 }
 }
