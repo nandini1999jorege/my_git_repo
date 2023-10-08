@@ -8,5 +8,7 @@ public static void main(String str[])
   
   c=a+b;
   System.out.println("Sum is :" +c);
+  c=b-a;
+  System.out.println("Subtraction is :" +c);
 }
 }
