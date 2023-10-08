@@ -22,6 +22,10 @@ public static void main(String str[])
 >>>>>>> 3616351 (reminder is updated)
 =======
   program ends.
+<<<<<<< HEAD
 >>>>>>> cd445c4 (end)
+=======
+	  "written by nandini jorege".
+>>>>>>> dcc7c39 (signing off)
 }
 }
